@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### `I am Patrick Chukwudifu` <br>I am a software developer. I love building secure and scalable applications.
+#### `I am Patrick Chimezie Chukwudifu` <br>I am a software developer. I love building secure and scalable applications.
 
 ## KEY SKILLS
 ![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=Python&logoColor=ffffff)
@@ -16,7 +16,7 @@
 #### 👯 I’m looking to collaborate on projects so hit me up if you have any ideas :grin:
 
 ## CONTACT ME
-#### :envelope: want to reach me? be sure to send me a mail (patoski716@gmail.com@gmail.com)
+#### :envelope: want to reach me? be sure to send me a mail (patoski716@gmail.com)
 <!--
 **esiebomaj/esiebomaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
