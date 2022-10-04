@@ -1,6 +1,4 @@
-### Hi there 👋
-
-#### I am @chimezie.me <br>I am a software developer. I love building secure and scalable applications.
+### Hi there 👋 I’m @chimezie.me <br>I am a software developer. I love building secure and scalable applications.
 
 ## KEY SKILLS
 ![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=Python&logoColor=ffffff)
